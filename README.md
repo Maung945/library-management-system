@@ -18,4 +18,4 @@ The Library Management System (LMS) is designed to facilitate the efficient mana
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/Maung945/library-management-system.git)
+   git clone https://github.com/Maung945/library-management-system.git
